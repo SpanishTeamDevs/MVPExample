@@ -1,4 +1,4 @@
-package example.mvp.mvpapplication.views.interfaces;
+package example.mvp.mvpapplication.interfaces;
 
 /**
  * Created by jarroyoe on 30/6/16.
